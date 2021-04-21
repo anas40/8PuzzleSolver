@@ -96,7 +96,7 @@ header h1 {
 
 main {
     position: relative;
-    min-height: 60vh;
+    min-height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
