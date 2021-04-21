@@ -395,11 +395,12 @@ function emptyArray(r, c) {
 }
 
 function checkoverflow(box = document.querySelector('.box')) {
-    let makeWidth = screen.width * 0.70
-    if (makeWidth > screen.height * 0.70) {
-        makeWidth = screen.height * 0.70
+    let makeWidth = screen.width * 0.90
+    if (makeWidth > screen.height * 0.90) {
+        makeWidth = screen.height * 0.90
     }
     makeWidth = Math.floor(makeWidth)
+    makeWidth = makeWidth>400?400:makeWidth
     box.style.width = `${makeWidth}px`
     box.style.height = `${makeWidth}px`
     console.log(makeWidth);
