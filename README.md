@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate web developer from India</h3>
 <h2>About</h2>
 <p>This project uses A star algorithm to find the solution of famous 3x3 sliding puzzle</p>
 <p>First of all a permutation of numbers from [0,8] is generated from Fisher Yates algorithm.
