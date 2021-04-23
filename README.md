@@ -10,9 +10,3 @@ Then it iterates on the states changing only those nodes in the DOM which have b
 
 - 🔭 View this project here [8 Puzzle](https://anas40.github.io/8PuzzleSolver/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/anas40](https://github.com/anas40)
-
-- 📫 How to reach me **anasbeg50@gmail.com**
-
-- 📄 Know about my experiences [https://docdro.id/oCdhM6J](https://docdro.id/oCdhM6J)
-
